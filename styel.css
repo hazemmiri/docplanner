@@ -1,0 +1,268 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-self: flex-start;
+    padding: 2rem 0;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    background-color: white;
+    z-index: 1000;
+
+}
+
+a {
+    color:#337ab7 ;
+    text-decoration: none;
+    background: transparent;
+    
+}
+
+header img {
+    width: 268px;
+    height: 33px;
+}
+
+.navtools {
+    font-size: 16px;
+    font-weight: 400;
+    display: flex;
+    gap: 1.5rem;
+
+}
+
+#About {
+    color: #00b39b;
+    text-decoration: none;
+
+}
+
+#Career {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+#Departments {
+    color: #00b39b;
+    text-decoration: none;
+}
+
+.leadsection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 8rem;
+}
+
+#headerlogo {
+    width: 40px;
+    aspect-ratio: auto 40 / 40;
+    height: 40px;
+}
+
+
+
+#headerp {
+    color: #00b39b;
+    font-size: 1.29rem;
+    font-family: work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.30px;
+    padding-top: 20px;
+}
+
+
+
+.twoparagraphs {
+    color: #747474;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    padding-left: 260px;
+    padding-right: 280px;
+    width: 100%;
+    justify-content: space-between;
+   
+}
+
+.p1 {
+    color: #747474;
+    padding-right: 30px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.p2 {
+    color: #747474;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+.forsection {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 1.375em 1.25em 0;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 3.75rem auto 2.5rem;
+    /* color: #fff; */
+    font-family: Work Sans, Arial, sans-serif;
+    max-width: 1015px;
+    padding: 0px 20px;
+    position: relative;
+}
+
+
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+
+/* img {
+    border: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    vertical-align: middle;
+    
+} */
+
+#for1title {
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+    font-family: Work Sans, Arial, sans-serif;
+}
+
+
+
+
+.for1 {
+    
+    background-color: #00ccb1;
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    justify-content: center;
+    height: 345px;
+    width: 345px;
+    /* justify-content: space-around; */
+
+}
+
+.for2 {
+    display: flex;
+    background-color: #3d83df;
+    border-radius: 10px;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: center;
+    height: 345px;
+    width: 345px;
+    justify-content: space-around;
+
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.for2 #for2titel {
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+    font-family: Work Sans, Arial, sans-serif;
+
+}
+
+
+div {
+    display: block;
+}
+.mylistImg{
+    width: 90px;
+    margin: 10px;
+}
+
+.imagesList{
+    margin-right:100px ;
+    display: flex;
+    flex-wrap: wrap;
+    width: 550px;
+}
+.for3 {
+    display: flex;
+    background-color: #1b2734;
+    border-radius: 10px;
+    flex-direction: column;
+    padding: 2em 2em 0;
+    justify-content: center;
+    height: 345px;
+    width: 345px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.forsection img {
+    width: 25px;
+    height: auto;
+}
+
+
+.for3 #for3title {
+    font-size: 1.625em;
+    font-weight: 400;
+    color: #fff;
+    margin: 0.3em 0;
+    font-family: Work Sans, Arial, sans-serif;
+}
+
+/*  */
+
+.section3 {
+    margin-left: 50px;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section3 div {
+    /* width: 60%; */
+    display: flex;
+}
+
+#section3title {
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+}
+
+#section3logo {
+    display: flex;
+    gap: 4rem;
+    flex-wrap: wrap;
+    
+}
